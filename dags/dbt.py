@@ -1,5 +1,5 @@
 import datetime
-
+import pandas
 import pendulum
 
 from airflow import DAG
