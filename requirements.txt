@@ -1,0 +1,3 @@
+pandas
+apache-airflow-providers-dbt-cloud==2.2.0
+
