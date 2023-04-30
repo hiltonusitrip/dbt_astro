@@ -10,6 +10,7 @@ from airflow.providers.dbt.cloud.operators.dbt import (
 )
 
 
+
 with DAG(
     dag_id="dbt",
     schedule="0 0 * * *",
